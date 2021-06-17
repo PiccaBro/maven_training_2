@@ -1,4 +1,4 @@
-package fr.lernejo.tester.SomeLernejoTests;
+package fr.lernejo.tester;
 
 import fr.lernejo.tester.api.TestMethod;
 
